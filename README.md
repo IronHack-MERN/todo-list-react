@@ -14,7 +14,7 @@ The purpose of this project is to put into practice knowledge about React.js dev
 The url to repository and deployed project:
 
 - [Repository Frontend Link](https://github.com/elenapiaggio/todo-list-reac)
-- [Deploy Link](http://todolist.surge.sh//)
+- [Deploy Link](http://todolist.surge.sh)
 
 
 ![Texto alternativo](/public/logo192.png)
